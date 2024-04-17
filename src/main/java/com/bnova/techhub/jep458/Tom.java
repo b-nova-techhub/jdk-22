@@ -1,8 +1,10 @@
-import com.bnova.techhub.jep458.Tim;
+package com.bnova.techhub.jep458;
 
-
-void main()
+public class Tom
 {
-	System.out.println("Hello from Tom, let's greet Tim");
-	Tim.greet();
+	void main()
+	{
+		System.out.println("Hello from Tom, let's greet Tim");
+		Tim.greet();
+	}
 }
